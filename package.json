@@ -1,0 +1,11 @@
+{
+  "name": "khulnasoft-extensions-bundles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/khulnasoft-lab/khulnasoft-extensions-bundles.git",
+  "license": "ISC",
+  "scripts": {
+    "build": "node index.js",
+    "publish": "node bundles/publish.js"
+  }
+}
