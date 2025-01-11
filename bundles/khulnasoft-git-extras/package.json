@@ -81,7 +81,7 @@
   },
   "description": "A Khulnasoft extension that adds useful features when viewing files in a Git repository on Khulnasoft, GitHub, GitLab, and other supported code hosts.",
   "devDependencies": {
-    "@commitlint/cli": "^16.3.0",
+    "@commitlint/cli": "^19.0.0",
     "@commitlint/config-conventional": "^16.2.4",
     "@sourcegraph/prettierrc": "^2.2.0",
     "@sourcegraph/tsconfig": "^4.0.1",
