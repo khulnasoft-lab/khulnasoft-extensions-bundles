@@ -65,7 +65,7 @@
   },
   "description": "Export search results as CSV",
   "devDependencies": {
-    "@sourcegraph/extension-api-stubs": "^0.2.2",
+    "@sourcegraph/extension-api-stubs": "^1.0.0",
     "@sourcegraph/tslint-config": "^13.3.0",
     "@types/js-base64": "^2.3.1",
     "@types/mocha": "^5.2.7",
